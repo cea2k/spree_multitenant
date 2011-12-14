@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Carlos E. Alarcón"]
   s.email       = ["cea2k@hotmail.com"]
   s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.summary     = ""
+  s.description = "Allows to have a single Spree installation serving multiple tenants"
 
   s.rubyforge_project = "spree_multitenant"
 
